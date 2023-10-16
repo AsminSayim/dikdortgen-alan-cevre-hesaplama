@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\dikdortgen-alan-çevrehesaplama\dikdortgen-alan-çevrehesaplama\bin\Debug\dikdortgen-alan-çevrehesaplama.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\dikdortgen-alan-çevrehesaplama\dikdortgen-alan-çevrehesaplama\bin\Debug\dikdortgen-alan-çevrehesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\dikdortgen-alan-çevrehesaplama\dikdortgen-alan-çevrehesaplama\bin\Debug\dikdortgen-alan-çevrehesaplama.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\dikdortgen-alan-çevrehesaplama\dikdortgen-alan-çevrehesaplama\obj\Debug\dikdortgen-alan-çevrehesaplama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\dikdortgen-alan-çevrehesaplama\dikdortgen-alan-çevrehesaplama\obj\Debug\dikdortgen-alan-çevrehesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\dikdortgen-alan-çevrehesaplama\dikdortgen-alan-çevrehesaplama\obj\Debug\dikdortgen_alan_çevrehesaplama.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\dikdortgen-alan-çevrehesaplama\dikdortgen-alan-çevrehesaplama\obj\Debug\dikdortgen_alan_çevrehesaplama.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\dikdortgen-alan-çevrehesaplama\dikdortgen-alan-çevrehesaplama\obj\Debug\dikdortgen-alan-çevrehesaplama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\dikdortgen-alan-çevrehesaplama\dikdortgen-alan-çevrehesaplama\obj\Debug\dikdortgen-alan-çevrehesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\dikdortgen-alan-çevrehesaplama\dikdortgen-alan-çevrehesaplama\obj\Debug\dikdortgen-alan-çevrehesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\dikdortgen-alan-çevrehesaplama\dikdortgen-alan-çevrehesaplama\obj\Debug\dikdortgen-alan-çevrehesaplama.pdb

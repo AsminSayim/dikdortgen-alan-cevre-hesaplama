@@ -1,0 +1,136 @@
+﻿namespace dikdortgen_alan_çevrehesaplama
+{
+    partial class Form1
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.lblKisa = new System.Windows.Forms.Label();
+            this.lblUzun = new System.Windows.Forms.Label();
+            this.txtKisa = new System.Windows.Forms.TextBox();
+            this.txtUzun = new System.Windows.Forms.TextBox();
+            this.btnHesapla = new System.Windows.Forms.Button();
+            this.lblCevre = new System.Windows.Forms.Label();
+            this.lblAlan = new System.Windows.Forms.Label();
+            this.SuspendLayout();
+            // 
+            // lblKisa
+            // 
+            this.lblKisa.AutoSize = true;
+            this.lblKisa.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.lblKisa.Location = new System.Drawing.Point(12, 36);
+            this.lblKisa.Name = "lblKisa";
+            this.lblKisa.Size = new System.Drawing.Size(127, 25);
+            this.lblKisa.TabIndex = 0;
+            this.lblKisa.Text = "Kısa Kenar";
+            // 
+            // lblUzun
+            // 
+            this.lblUzun.AutoSize = true;
+            this.lblUzun.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.lblUzun.Location = new System.Drawing.Point(12, 78);
+            this.lblUzun.Name = "lblUzun";
+            this.lblUzun.Size = new System.Drawing.Size(135, 25);
+            this.lblUzun.TabIndex = 1;
+            this.lblUzun.Text = "Uzun Kenar";
+            // 
+            // txtKisa
+            // 
+            this.txtKisa.Location = new System.Drawing.Point(160, 41);
+            this.txtKisa.Name = "txtKisa";
+            this.txtKisa.Size = new System.Drawing.Size(111, 20);
+            this.txtKisa.TabIndex = 2;
+            // 
+            // txtUzun
+            // 
+            this.txtUzun.Location = new System.Drawing.Point(160, 84);
+            this.txtUzun.Name = "txtUzun";
+            this.txtUzun.Size = new System.Drawing.Size(111, 20);
+            this.txtUzun.TabIndex = 3;
+            // 
+            // btnHesapla
+            // 
+            this.btnHesapla.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.btnHesapla.Location = new System.Drawing.Point(160, 126);
+            this.btnHesapla.Name = "btnHesapla";
+            this.btnHesapla.Size = new System.Drawing.Size(111, 32);
+            this.btnHesapla.TabIndex = 4;
+            this.btnHesapla.Text = "Hesapla";
+            this.btnHesapla.UseVisualStyleBackColor = true;
+            this.btnHesapla.Click += new System.EventHandler(this.btnHesapla_Click);
+            // 
+            // lblCevre
+            // 
+            this.lblCevre.AutoSize = true;
+            this.lblCevre.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.lblCevre.Location = new System.Drawing.Point(31, 196);
+            this.lblCevre.Name = "lblCevre";
+            this.lblCevre.Size = new System.Drawing.Size(74, 25);
+            this.lblCevre.TabIndex = 5;
+            this.lblCevre.Text = "Çevre";
+            // 
+            // lblAlan
+            // 
+            this.lblAlan.AutoSize = true;
+            this.lblAlan.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.lblAlan.Location = new System.Drawing.Point(46, 234);
+            this.lblAlan.Name = "lblAlan";
+            this.lblAlan.Size = new System.Drawing.Size(59, 25);
+            this.lblAlan.TabIndex = 6;
+            this.lblAlan.Text = "Alan";
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.Silver;
+            this.ClientSize = new System.Drawing.Size(396, 339);
+            this.Controls.Add(this.lblAlan);
+            this.Controls.Add(this.lblCevre);
+            this.Controls.Add(this.btnHesapla);
+            this.Controls.Add(this.txtUzun);
+            this.Controls.Add(this.txtKisa);
+            this.Controls.Add(this.lblUzun);
+            this.Controls.Add(this.lblKisa);
+            this.Name = "Form1";
+            this.Text = "Form1";
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Label lblKisa;
+        private System.Windows.Forms.Label lblUzun;
+        private System.Windows.Forms.TextBox txtKisa;
+        private System.Windows.Forms.TextBox txtUzun;
+        private System.Windows.Forms.Button btnHesapla;
+        private System.Windows.Forms.Label lblCevre;
+        private System.Windows.Forms.Label lblAlan;
+    }
+}
+
